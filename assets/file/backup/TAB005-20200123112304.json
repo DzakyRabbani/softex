@@ -1,0 +1,64 @@
+{
+    "pemain": [
+        {
+            "user": 1,
+			"no_hp": "0982564564",
+			"survey": "Lembut",
+            "tanggal": "2019-10-03 08:20:17"
+        },
+		{
+            "user": 1,
+			"no_hp": "0784526756",
+			"survey": "Kasar",
+            "tanggal": "2019-10-27 10:20:17"
+        },
+		{
+            "user": 1,
+			"no_hp": "054767245678",
+			"survey": "Lembut",
+            "tanggal": "2019-11-24 10:50:17"
+        },
+		{
+            "user": 1,
+			"no_hp": "045378275678",
+			"survey": "Lembut",
+            "tanggal": "2019-11-15 25:20:17"
+        },
+		{
+            "user": 1,
+			"no_hp": "07527856785",
+			"survey": "Sedang",
+            "tanggal": "2019-11-22 20:20:17"
+        },
+		{
+            "user": 0,
+			"no_hp": "",
+			"survey": "",
+            "tanggal": ""
+        },
+		{
+            "user": 0,
+			"no_hp": "",
+			"survey": "",
+            "tanggal": ""
+        },
+		{
+            "user": 0,
+			"no_hp": "",
+			"survey": "",
+            "tanggal": ""
+        },
+		{
+            "user": 0,
+			"no_hp": "",
+			"survey": "",
+            "tanggal": ""
+        },
+		{
+            "user": 0,
+			"no_hp": "",
+			"survey": "",
+            "tanggal": ""
+        }
+    ]
+}
